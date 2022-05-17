@@ -3,7 +3,6 @@ namespace Laba2._1
 {
     class Program
     {
-
         public class Piano
         {
             public static System.Collections.ArrayList piano = new System.Collections.ArrayList();
